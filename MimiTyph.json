@@ -1,16 +1,16 @@
 {
-  "name": "MimiTyph",
-  "description": "DARK MODE ONLY",
-  "author": "Lumii <3",
-  "version": "1.0.0",
-  "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#a16b00", "#a16b00"],
-    "BACKGROUND_SECONDARY": ["#a67005", "#a67005"],
-    "BACKGROUND_TERTIARY": ["#291c02", "#291c02"]
-  },
-  "background": {
-    "url": "https://github.com/AlfredoLaringologo222/MimiTyph-Discord-Theme/blob/main/233bc577cc9c6cd68e434c445aa5f77f.jpg",
-    "blur": 0,
-    "alpha": 1
-  }
+    "name": "MimiTyph",
+      "description": "DARK MODE ONLY",
+        "author": "Lumii <3",
+          "version": "1.0.0",
+            "semanticColors": {
+                "BACKGROUND_PRIMARY": ["#a16b00", "#a16b00"],
+                    "BACKGROUND_SECONDARY": ["#a67005", "#a67005"],
+                        "BACKGROUND_TERTIARY": ["#291c02", "#291c02"]
+                          },
+                            "background": {
+                                "url": "https://github.com/AlfredoLaringologo222/MimiTyph-Discord-Theme/blob/main/233bc577cc9c6cd68e434c445aa5f77f.jpg",
+                                    "blur": 0,
+                                        "alpha": 1
+                                          }
 }
