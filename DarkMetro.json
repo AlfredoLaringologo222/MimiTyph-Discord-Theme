@@ -1,6 +1,6 @@
 {
   "name": "Dark Metro",
-  "description": "Dark mode only.",
+  "description": "Dark Mode only.",
   "version": "1.0.1",
   "authors": [
     {
@@ -11,73 +11,72 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#009e5c1e",
-      "#009e5c1e"
+      "#06291C",
+      "#06291C"
     ],
     "BACKGROUND_SECONDARY": [
-      "#00592240",
-      "#00592240"
+      "#031F0C",
+      "#031F0C"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#00592240",
-      "#00592240"
+      "#031F0C",
+      "#031F0C"
     ],
     "BACKGROUND_TERTIARY": [
-      "#044a2673",
-      "#044a2673"
+      "#042F1A",
+      "#042F1A"
     ],
     "CHAT_BACKGROUND": [
-      "#009e5c1e",
-      "#009e5c1e"
+      "#06291C",
+      "#06291C"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#009e5c1e",
-      "#009e5c1e"
+      "#06291C",
+      "#06291C"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#00592240",
-      "#00592240"
+      "#031F0C",
+      "#031F0C"
     ],
-    "BACKGROUND_FLOATING": [
-      "#044a26cc",
-      "#044a26cc"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#044a26cc",
-      "#044a26cc"
-    ],
+
     "INTERACTIVE_NORMAL": [
       "#005922",
       "#005922"
     ],
     "INTERACTIVE_HOVER": [
-      "#009e5c",
-      "#009e5c"
+      "#009E5C",
+      "#009E5C"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#ffffff"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
+
     "TEXT_NORMAL": [
-      "#ffffff",
-      "#ffffff"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#ffffff",
-      "#ffffff"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
-    "CHANNELS_DEFAULT": [
-      "#005922",
-      "#005922"
+    "HEADER_SECONDARY": [
+      "#B7DCC9",
+      "#B7DCC9"
     ],
-    "CHANNEL_ICON": [
-      "#005922",
-      "#005922"
+    "TEXT_MUTED": [
+      "#79A991",
+      "#79A991"
+    ],
+    "TEXT_LINK": [
+      "#00C878",
+      "#00C878"
     ]
   },
+
   "background": {
     "url": "https://i.imgur.com/ZwV48F0.jpeg",
-    "alpha": 1.0,
+    "alpha": 0.45,
     "blur": 0
   }
 }
