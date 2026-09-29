@@ -2,20 +2,20 @@
   "name": "Dark Metro",
   "description": "Dark Theme Only.",
   "author": "I dunno",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#009e5c1a",
-      "#009e5c1a"
+      "#009e5c",
+      "#009e5c"
     ],
     "BACKGROUND_SECONDARY": [
-      "#00592233",
-      "#00592233"
+      "#005922",
+      "#005922"
     ],
     "BACKGROUND_TERTIARY": [
-      "#044a264d",
-      "#044a264d"
+      "#044a26",
+      "#044a26"
     ],
     "INTERACTIVE_NORMAL": [
       "#005922",
@@ -31,8 +31,8 @@
     ]
   },
   "background": {
-    "url": "https://i.imgur.com/ZwV48F0.jpeg",
+    "url": "https://imgur.com",
     "blur": 0,
-    "alpha": 1.0    
+    "alpha": 0.35
   }
 }
