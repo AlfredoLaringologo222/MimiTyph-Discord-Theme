@@ -6,16 +6,28 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#009e5c",
-      "#009e5c"
+      "#009e5c1a",
+      "#009e5c1a"
     ],
     "BACKGROUND_SECONDARY": [
+      "#00592233",
+      "#00592233"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#044a264d",
+      "#044a264d"
+    ],
+    "INTERACTIVE_NORMAL": [
       "#005922",
       "#005922"
     ],
-    "BACKGROUND_TERTIARY": [
-      "#044a26",
-      "#044a26"
+    "INTERACTIVE_HOVER": [
+      "#009e5c",
+      "#009e5c"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#ffffff"
     ]
   },
   "background": {
