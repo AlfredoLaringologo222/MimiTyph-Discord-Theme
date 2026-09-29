@@ -1,21 +1,42 @@
 {
   "name": "Dark Metro",
-  "description": "Dark Theme Only.",
-  "author": "I dunno",
-  "version": "1.0.1",
+  "description": "Dark Mode only.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "I dunno",
+      "id": ""
+    }
+  ],
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#009e5c",
-      "#009e5c"
+      "rgba(0, 158, 92, 0.12)",
+      "rgba(0, 158, 92, 0.12)"
     ],
     "BACKGROUND_SECONDARY": [
-      "#005922",
-      "#005922"
+      "rgba(0, 89, 34, 0.25)",
+      "rgba(0, 89, 34, 0.25)"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "rgba(0, 89, 34, 0.25)",
+      "rgba(0, 89, 34, 0.25)"
     ],
     "BACKGROUND_TERTIARY": [
-      "#044a26",
-      "#044a26"
+      "rgba(4, 74, 38, 0.45)",
+      "rgba(4, 74, 38, 0.45)"
+    ],
+    "CHAT_BACKGROUND": [
+      "rgba(0, 158, 92, 0.12)",
+      "rgba(0, 158, 92, 0.12)"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "rgba(0, 158, 92, 0.12)",
+      "rgba(0, 158, 92, 0.12)"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "rgba(0, 89, 34, 0.25)",
+      "rgba(0, 89, 34, 0.25)"
     ],
     "INTERACTIVE_NORMAL": [
       "#005922",
@@ -28,11 +49,15 @@
     "INTERACTIVE_ACTIVE": [
       "#ffffff",
       "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff",
+      "#ffffff"
     ]
   },
   "background": {
-    "url": "https://imgur.com",
-    "blur": 0,
-    "alpha": 0.35
+    "url": "https://i.imgur.com/ZwV48F0.jpeg",
+    "alpha": 0.45,
+    "blur": 0
   }
 }
