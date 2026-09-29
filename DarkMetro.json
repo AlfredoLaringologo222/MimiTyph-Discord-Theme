@@ -1,7 +1,7 @@
 {
   "name": "Dark Metro",
-  "description": "Dark Mode only.",
-  "version": "1.0.0",
+  "description": "Dark mode only.",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "I dunno",
@@ -11,32 +11,40 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "rgba(0, 158, 92, 0.12)",
-      "rgba(0, 158, 92, 0.12)"
+      "#009e5c1e",
+      "#009e5c1e"
     ],
     "BACKGROUND_SECONDARY": [
-      "rgba(0, 89, 34, 0.25)",
-      "rgba(0, 89, 34, 0.25)"
+      "#00592240",
+      "#00592240"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "rgba(0, 89, 34, 0.25)",
-      "rgba(0, 89, 34, 0.25)"
+      "#00592240",
+      "#00592240"
     ],
     "BACKGROUND_TERTIARY": [
-      "rgba(4, 74, 38, 0.45)",
-      "rgba(4, 74, 38, 0.45)"
+      "#044a2673",
+      "#044a2673"
     ],
     "CHAT_BACKGROUND": [
-      "rgba(0, 158, 92, 0.12)",
-      "rgba(0, 158, 92, 0.12)"
+      "#009e5c1e",
+      "#009e5c1e"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "rgba(0, 158, 92, 0.12)",
-      "rgba(0, 158, 92, 0.12)"
+      "#009e5c1e",
+      "#009e5c1e"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "rgba(0, 89, 34, 0.25)",
-      "rgba(0, 89, 34, 0.25)"
+      "#00592240",
+      "#00592240"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#044a26cc",
+      "#044a26cc"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#044a26cc",
+      "#044a26cc"
     ],
     "INTERACTIVE_NORMAL": [
       "#005922",
@@ -53,11 +61,23 @@
     "TEXT_NORMAL": [
       "#ffffff",
       "#ffffff"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#ffffff"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#005922",
+      "#005922"
+    ],
+    "CHANNEL_ICON": [
+      "#005922",
+      "#005922"
     ]
   },
   "background": {
     "url": "https://i.imgur.com/ZwV48F0.jpeg",
-    "alpha": 0.45,
+    "alpha": 1.0,
     "blur": 0
   }
 }
